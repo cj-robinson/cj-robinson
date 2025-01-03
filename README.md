@@ -1,5 +1,4 @@
 ## Hi, I'm C.J. 👋
---
 
 [**Find my personal website here**](https://cj-robinson.github.io/)
 
