@@ -4,11 +4,11 @@
 
 My full name is Christopher, but mostly I go by C.J. (sometimes CJ).
 
-I’m currently a student at the Columbia Journalism School pursuing an M.S. in Data Journalism.
+I currently work as a Reporting and Research Fellow at the Tow Center for Digital Journalism at Columbia University, where I write data stories on AI, media, and politics.
 
 I enjoy transit, cities, coffee and games. I hope to combine reporting and data to make engaging news stories.
 
-Most recently, I was a senior data analyst for the New York Times Games team using user engagement data to understand what makes games like Wordle, Strands, Connections, and the Crossword more engaging + enjoyable (plus doing some fun Wordle strategy analysis).
+I graduated in 2025 with a M.S. in Data Journalism at Columbia Journalism School. Previously, I was a senior data analyst for the New York Times Games team using user engagement data to understand what makes games like Wordle, Strands, Connections, and the Crossword more engaging + enjoyable (plus doing some fun Wordle strategy analysis).
 
 
 <!--
